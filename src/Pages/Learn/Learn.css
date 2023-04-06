@@ -1,0 +1,12 @@
+.learnContainer{
+    background-color: #F4761F;
+    height: 90vh;
+}
+
+.rowss{
+    flex-direction: row;
+    display: flex;
+    gap: 20px;
+    margin: 20px;
+    padding: 20px;
+}
